@@ -1,0 +1,1028 @@
+L1 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ When can I begin the program? negative. 
+L2 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ There are five starts each calendar beginning in January, March, May, August or October. positive. 
+L3 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ When is the deadline to apply? negative. 
+L4 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is never too late to apply! We offer rolling admissions with five starts each calendar year positive. 
+L5 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How do I contact the Online Admissions Department? negative. 
+L6 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The online admissions department can be contacted by phone at (703) 752-5348 or email oladmissions@stratford.edu negative. 
+L7 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How long does it take to complete the program? negative. 
+L8 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The time frames below reflect the program duration if no courses are transferred into the University: Associate's degrees can be completed in as little as 18 months; Bachelor's degree can be completed in as little as 30 months; Master's degree can be completed in as little as 15 months. positive. 
+L9 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How long are the online classes at Stratford University? positive. 
+L10 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Each online class will last for 10 weeks per term. negative. 
+L11 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How much are the classes at Stratford University? positive. 
+L12 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Undergraduate courses are $370 per credit hour with one class totaling to $1,665 and graduate courses are $495 per credit hour with one class totaling to $2,227.50. negative. 
+L13 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is there an application fee? negative. 
+L14 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ There is a non-refundable application fee of $50. negative. 
+L15 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can the application fee be waived? negative. 
+L16 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The application fee can be waived on a case-by-case basis. negative. 
+L17 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Are books included in the tuition? negative. 
+L18 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Textbooks, other than those used in General Education courses, are complimentary to registered students. positive. 
+L19 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How do I transfer credits to Stratford University? negative. 
+L20 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You would request your official transcripts to be sent to Stratford University so we can get them evaluated for credit transfer. negative. 
+L21 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How many credits am I able to transfer as an undergraduate or graduate student? positive. 
+L22 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ If you're transferring to/from an Associate's degree, 67.5 credits are allowed to transfer leaving 22.5 credits left to take at Stratford. If you're transferring to/from a Bachelor's degree, 135 credits are allowed to transfer, leaving 45 credits left to take. If you're transferring to/from a Master's degree, 27 transfer credits are allowed, leaving you with 27 credits left. negative. 
+L23 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How do I apply to Stratford University? negative. 
+L24 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You would submit an online application at https://portal.stratford.edu/OnlineApp#/form/info negative. 
+L25 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How long does each program take? negative. 
+L26 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The length of the program varies depending on transfer credits, how many courses taken per term, but our accelerated programs lets you earn an associate's degree in 18 months, bachelor's degree in 30 months or a master's degree in 15 months. positive. 
+L27 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ What is the cost of each program? negative. 
+L28 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The cost of the Associate's is $33,000. The cost of the Bachelor's in $66,000. The cost of the Master's is $27,000. The cost depends on the transfer credits as well. negative. 
+L29 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can I use financial aid? Are there loans, grants, scholarships I can apply to? positive. 
+L30 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Financial aid is available for those who qualify. The first step would be to submit a FAFSA at fafsa.ed.gov and include our school code 017053. positive. 
+L31 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Does Stratford help me find a job after graduation? negative. 
+L32 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We offer a Career Services Center resource which will assist you with obtaining the skills necessary for successful interviewing and provides a network of employers in each discipline. negative. 
+L33 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can I double major? negative. 
+L34 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ No you can only pursue one major at a time. negative. 
+L35 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do I have to come to campus if it's an online program? negative. 
+L36 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You would not be required to go to a campus but the resources are available for you at any campus even if you're an online student. positive. 
+L37 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Are there internships required within the program? positive. 
+L38 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Internships are not required for the graduate programs. Externships are included in some undergraduate programs; others require a capstone project. negative. 
+L39 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How do online classes work? Do I have to log on certain days? negative. 
+L40 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ With online courses, you do not have to log on at a certain time or days. You will have deadlines for when your assignments are due, however you do not have to log-in at set times for your classes. negative. 
+L41 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can I use financial aid at two schools at the same time negative. 
+L42 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ No. The Department of Education only allows students to use financial aid at one school at a time. positive. 
+L43 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ When I graduate from Stratford will my degree say online? negative. 
+L44 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ No. You are still considered a Stratford graduate regardless of how you take your classes. negative. 
+L45 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do you offer an online culinary degree? negative. 
+L46 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ No. The culinary program degree can only be completed on campus. negative. 
+L47 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do you offer an online BSN program? negative. 
+L48 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ No. You may be able to take some of your nursing prerequisites online, however your nursing courses are only offered on campus. negative. 
+L49 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do you accept transfer credits from other schools? positive. 
+L50 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes. If the courses meet the guidelines for transferability, you can transfer them to Stratford. negative. 
+L51 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Will other schools accept Stratford credits? positive. 
+L52 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is up to the receiving school to decide if they accept transfer credits from Stratford or not. negative. 
+L53 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do you include laptops when I sign up for online courses? negative. 
+L54 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Stratford does not offer laptops for online students. negative. 
+L55 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is Stratford accredited? negative. 
+L56 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes. Stratford holds a National Accreditation through the Accrediting Counsel of Independent Colleges and Schools (ACICS). negative. 
+L57 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do you offer scholarships? negative. 
+L58 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes. Stratford does offer scholarships. For more information go to http://www.stratford.edu/services/first-scholarships positive. 
+L59 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How many courses can transfer into the program? negative. 
+L60 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ For Associates and Bachelor's you are able to transfer 75% of the program, which equates to 67.5 of the 90 credits hours and in the bachelor's program, 135 of 180 credit hours. With the Graduate program you are able to transfer in 50% or 27 credit hours. negative. 
+L61 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How many courses can I take at one time? positive. 
+L62 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You are able to take up to 4 classes per term. Anything above that amount will require approval from the Dean. We would also encourage you to speak with Student Accounts to determine how this effects your financial plan as well. negative. 
+L63 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is there a Student Orientation and is it mandatory? negative. 
+L64 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Every campus/division host orientation either at the campus or virtually to welcome new students and assist with the acclimation process into Stratford University. Orientation is mandatory for new students, if for some reason they are not able to attend, they will need to meet with either the Student Development team or their Admissions officer to receive information. positive. 
+L65 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can I be accepted into Stratford University with Foreign transcripts? positive. 
+L66 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes, students with foreign transcripts if we are able to determine that it is the equivalent to U.S. high school by the Admissions office. If we are not able to determine this in the department, the student will need to have their transcripts evaluated and/or translated by an approved evaluation agency to determine if acceptable. negative. 
+L67 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is there any placement test necessary to take to gain acceptance into Stratford University? negative. 
+L68 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Students who are required to take arts and sciences courses in their programs must take the placement test, if they are not transferring in any English or math credits. Student who do not meet the minimum score or choses to opt out of taking this assessment will be enrolled into remedial courses to ensure preparedness for college-level courses. negative. 
+L69 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can I receive credits for prior work experience? negative. 
+L70 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes, credit for prior experiences, also known as Prior Learning Assessment and Recognition, may be awarded as credits. These credits are posted on the transcript as CR. negative. 
+L71 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is there a GPA requirement for the graduate program? negative. 
+L72 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes, students looking to gain acceptance into the graduate program should have a 2.5 grade point average on a 4.0 scale for undergraduate work. If a student has less than 2.5 for their undergraduate studies, they will have to appeal and provide additional information and documentation to gain acceptance into the Stratford University Graduate program. This may include but not limited to, resume and letter of intent. negative. 
+L73 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ What is the platform used to complete assignments if you are an online student? negative. 
+L74 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Stratford University facilitates its online courses through Moodle. Moodle is an open source course management system (CMS), otherwise known as a Learning Management System or Virtual Learning Environment. positive. 
+L75 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How is attendance determined online? negative. 
+L76 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Online attendance is demonstrated through student participation in assigned activities which include, but are not limited to, submission of academic assignments, completing quizzes or exams, or participating in discussion boards. positive. 
+L77 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is online admissions different then admissions at the campus? negative. 
+L78 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ No, there is no difference in the process, program requirements, or graduation between online programs and on-campus programs. The admission process for an online program is the same as on-campus. negative. 
+L79 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have been out of school for over a year, do I need to go back through the admissions process? negative. 
+L80 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Students returning to the University after five or more terms of non-enrollment are considered re-admitted students. These students are required to complete the admissions process over. This does not necessarily mean that you will have to start your classes over, but there may be changes to your program since you last date of attendance. Students being re-admitted are expected to follow the curriculum requirements in the catalog in effect at the time of the re-admittance. positive. 
+L81 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do my military credits transfer into Stratford University? negative. 
+L82 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Military students may receive credit for training received while in the military. This experience and or training should be shown on a military transcript submitted for transfer credit evaluation, such as AARTS, SMART, and JST positive. 
+L83 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ What are the different student statuses? negative. 
+L84 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ A student may attend part time or full time. Part time is 9 credit hours or less and full time is 13.5 credits or more. positive. 
+L85 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Will my associate program transfer into my bachelor program? negative. 
+L86 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We do have associates programs, that line up 100% with the bachelor's program, also called 2 + 2. But depending on which program you start and decide to continue with, will determine how many credits will transfer directly into the program. negative. 
+L87 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is there a GPA requirement to graduate for Undergraduate program? negative. 
+L88 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Students must achieve a minimum GPA of 2.0 for all undergraduate program. Only exception is nursing, where student must have a 2. 8 GPA. negative. 
+L89 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is there a GPA requirement to graduate for the Graduate programs? negative. 
+L90 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Students must achieve a 3.0 GPA to successfully graduate from the Graduate program. positive. 
+L91 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do I need to take a criminal background check to gain acceptance into Stratford University? negative. 
+L92 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Criminal background check requirements for admissions vary by program. negative. 
+L93 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is there a minimum GPA need to be accepted into Stratford University undergraduate programs? negative. 
+L94 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Our Maryland campuses, students must provide a high school transcripts indicating a GPA of 2.0 or a GED transcript or certificate with a score of 450 or higher. Campuses outside or Maryland, including Online, currently do not have a minimum GPA. positive. 
+L95 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is more time given for me to obtain my high school diploma or transcripts prior to start? positive. 
+L96 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ A student maybe accepted conditional if they need additional time to meet all admissions requirements. This is based on the decision of the Director of Admissions. If granted conditional acceptance, a student will have 30 days to provide documentation necessary to gain full acceptance. If they are not able to in 30 days, students will be dismissed.positive.
+L97 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi in my room is not working. I live in Room 7 of SH-3. Please help me with this. positive. 
+L98 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You request has been received and you wil be provided with further assistance , Please reconnect to the router and remove proxy settings if any . You can call to our help desk as well . Best Regards Technical Team Dear Adit: It looks like you are using dynamic IP addressPlease try using a static IP instead of the DHCP. Open the Settings (Home key (usually looks like a house) > Menu Key (typically on the bottom of the phone on the far left next to home key) > Settings). Tap Wireless and networks. Tap Wi-Fi settings. Press the Menu key. Select Advanced options. Tap Use static IP. If still you are facing problem , Feel free to call to our help desk. positive. 
+L99 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I can't access the wifi through my phone. Please help. positive. 
+L100 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please reset your proxy settings on your laptop ,Proxy is 172.25.24.23 port 8080, If it does not help please reset your router, Still facing same problem , Please call the help desk extension for further assistance. negative. 
+L101 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I can't access the wifi from my laptop. Please help me fix this. positive. 
+L102 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Feel free to call our help desk for further help if required. negative. 
+L103 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi has been very erratic on my device. I need this urgently. Please help me fix this. positive. 
+L104 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested to chnge your location, Please try to connect your device near window or open area. Your complaint is noted , we will check the signl strenth in your area .Please wait for few hours , we will get you back. Feel free to call our help desk for further help if required. negative. 
+L105 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My internet has not been working properly for the past few days. Please solve the issue. negative. 
+L106 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested to chnge your location, Please try to connect your device near window or open area. Your complaint is noted , we will check the signl strenth in your area .Please wait for few hours , we will get you back. Feel free to call our help desk for further help if required. negative. 
+L107 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I stay on the 6th floor of SH-2 residence. I have not been able to connect to the wifi for 2 hours now. Can you please help fix this asap. negative. 
+L108 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please reset your computer adapter settings.If its not working fine try to upgrade your window drivers. Feel free to call our help desk for further help if required. positive. 
+L109 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My laptop has not able to connect to the student wifi namely 'Ashoka Student' for some time now. Can you please help me fix this. negative.
+L110 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The upgradation of wifi system caused these issues , we are workin on it. Sorry for inconvience. Feel free to call our help desk for further help if required. negative. 
+L111 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi outage was scheduled for 4 hours from 10 AM to 2 PM, but the wifi is still down. It has been 3 hours since it was expected to have returned. Please look into it. negative. 
+L112 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Press FN+F2 , your wifi devices would be shown. If not reset adpter settings on your network section. Feel free to call our help desk for further help if required. negative. 
+L113 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ None of the wifi SSID's seem to be appearing while trying to connect. Is the wifi down? Please fix it as soon as possible. negative. 
+L114 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please go to your network settings -> uncheck the only home networks options . Feel free to call our help desk for further help if required. positive. 
+L115 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My Internet is not connecting to the public servers, but is working on private servers, what to do ? negative. 
+L116 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Sorry for inconvience , please wait for few moments, system is under maintenance. Feel free to call our help desk for further help if required. negative. 
+L117 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am near the Academic block and the wifi is really slow on downlading exe files, Please help. positive. 
+L118 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Sorry for inconvience , please wait for few moments, system is under maintenance. Feel free to call our help desk for further help if required. negative. 
+L119 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Wifi is not working here, I think the lights in the Adapter are not working, I am near the Mess. positive. 
+L120 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Sorry for inconvience , please wait for few moments, system is under maintenance. Feel free to call our help desk for further help if required. negative. 
+L121 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Ruckus adapter has fallen down near the meeting room in 6th floor, Main Admin Building. negative. 
+L122 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please check your SSID settingsFeel free to call our help desk for further help if required. negative. 
+L123 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Wifi is not connecting here in Library using Ubuntu, Help. negative. 
+L124 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ System ugradation text will be sent 24 hours earlier. Feel free to call our help desk for further help if required. negative. 
+L125 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can you please specify till when will the wifi be disfunctional. negative. 
+L126 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ we areworking on it , will get you back within few hours. Feel free to call our help desk for further help if required. negative. 
+L127 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi has not been working on the 4th floor of SH2 since morning. It is my sincere request if you could fix the issue. negative. 
+L128 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please change your settings according to router proxy . Feel free to call our help desk for further help if required. negative. 
+L129 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi is not connecting to my phone. I have a Moto G3. Kindly let me know how can I connet my phone to WiFi. positive. 
+L130 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please try using a static IP instead of the DHCP. Open the Settings (Home key (usually looks like a house) > Menu Key (typically on the bottom of the phone on the far left next to home key) > Settings). Tap Wireless and networks. Tap Wi-Fi settings. Press the Menu key. Select Advanced options. Tap Use static IP.Feel free to call our help desk for further help if required. positive. 
+L131 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi has not been working on my motorola G4 phone. Other students who have motorola phones also are facing a similar problem. It is my sincere request if you could resolve the issue at the earliest. negative. 
+L132 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L133 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I haven't received my WiFi login details. Please provide me with the details at the earliest. positive. 
+L134 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L135 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I seem to have forgotten the password to my internet access account. Please help me reset my password for the same. negative. 
+L136 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L137 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The WiFi details given to me during the orientation week don't seem to work. Please provide me with new details so that I can access my WiFi. positive. 
+L138 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L139 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I do not remember the details to my WiFi account. Please provide me with new login details. positive. 
+L140 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L141 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am not able to access the internet as I do not have my WiFi login details. Please provide me with the same. positive. 
+L142 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L143 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My login details are not working anymore. My old password gives the 'incorrect password' error. How can I get my old password changed? negative. 
+L144 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L145 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My password keeps on getting changed everytime I change it. I think another person in my batch is using the same user ID. Is there a way I can get my login details changed? positive. 
+L146 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L147 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am yet to recieve my login details to connect to the wifi. By when can I recieve it? Let me know as soon as possible. positive. 
+L148 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L149 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ when I put in my login details, it gives me maximum login limit reached. I have a feeling someone else is also using my account. How can I change the password? negative. 
+L150 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L151 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I tried logging in and it is not opening the portal, running linux on i5 processor. negative. 
+L152 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L153 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The portal does not load on the url provided, please help. negative. 
+L154 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L155 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I forgot my login details, Please help me, I have a exam tomorrow. positive. 
+L156 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L157 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ please send me a link to reset my password. negative. 
+L158 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L159 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We need to reset the login details of our club. negative. 
+L160 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L161 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am unable to login to Wifi due to password error. However, I have not changed my password. Kindly look into the problem. negative. 
+L162 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L163 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My wifi login limit has reached due to which I am not able to login on my laptop. Can you please reset the devices I have logged into from my id? negative. 
+L164 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L165 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I wanted to change the password for my wifi login. Kindly let me know how to go about it. positive. 
+L166 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L167 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am unable access the wifi due to some password change. However, I have not made this change. Please help me out. positive. 
+L168 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L169 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have reached the maximum login limit on my wifi id. Kindly help me regain access. positive. 
+L170 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L171 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please provide a clicker from room no. 2 in the new academic block for Prof. Kothari's lecture starting at 5 PM. negative. 
+L172 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L173 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have a talk scheduled for 2 PM in AC-100. Please provide the projector remote for the same. negative. 
+L174 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L175 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We require a projector remote for a lecture at LR-106 starting at 10 PM. Please do the necessary. negative. 
+L176 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L177 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We require a clicker for TR-106 from 7 PM. Please help us with this. positive. 
+L178 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L179 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ A talk will be held in AC-109 today, starting at 11 AM. Please provide a remote controller for the projector for the same. negative. 
+L180 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You will find it in room#20. Feel free to call our help desk for further help if required. negative. 
+L181 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I need a clicker for the projector. My class begins at 4:30 pm today. When and where can I collect it? negative. 
+L182 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L183 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker provided in classroom AC-006 is not functioning. Please provide me another one. negative. 
+L184 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L185 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector remote is not working. I suspect it is low on battery, where can I collect another one? negative. 
+L186 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L187 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I had requested for a projector clicker. The one provided has unfortunately gone missing. Where can I get another one? Let me know as soon as possible. negative. 
+L188 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L189 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I need another clicker in LR 010 in the new acedmic block, there are two speakers. positive. 
+L190 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your complaint is forwarded to our technical staff. Feel free to call our help desk for further help if required. negative. 
+L191 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker provided in media room is out of battery. Please change. negative. 
+L192 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L193 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker in LR 011 is not responding to back function. Please provide another asap. negative. 
+L194 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L195 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ This is the Media departement and we need 5 new clickers in our media room. Please provide, we have cc'ed OSL for the approval. negative. 
+L196 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L197 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ the batteries in the clicker in LR 003 are dead and please fix them, get a new clicker also, I think the one here doesn't conect for a long time. positive. 
+L198 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L199 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Professor Anwar requires a clicker in class LR010 at 4:30pm today. negative. 
+L200 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L201 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker we have in class (LR 201) is not syncing with the laptop. The professor has a Macbook Air. Kindly check if we need a different clicker model. negative. 
+L202 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L203 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It appears that the clicker we are using is out of batteries. There is no signal response to any button we press. Kindly send someone to LR 002 to replace the batteries. negative. 
+L204 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L205 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The history society is conducting a seminar in the auditorium today. We shall be needing two clickers for the same. Please arrange for two clickers in the Auditorium by tomorrow. negative. 
+L206 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L207 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector in room no. 25 is not working. Please help us fix this at the earliest. positive. 
+L208 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L209 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The speakers in TR-106 are not working. We will be having a lecture in this room in a few minutes. Please fix this issue asap. positive. 
+L210 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your complaint is forwarded to our technical staff , Feel free to call our help desk for further help if required. negative. 
+L211 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We will be hosting a quiz competition in LR-205 from 10 PM for which we require a mic. Please do the necessary. positive. 
+L212 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your request is forwarded to our technical staff ,Feel free to call our help desk for further help if required. negative. 
+L213 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The mic in room no. 230 is missing. Please provide us with a mic in this room as we have an event starting in the next hour. positive. 
+L214 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your complaint is forwarded to our technical staff , Feel free to call our help desk for further help if required. negative. 
+L215 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The speakers seem to be broken in LT-106. Please solve this issue as soon as possible. positive. 
+L216 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your complaint is forwarded to our technical staff , Feel free to call our help desk for further help if required. negative. 
+L217 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have an event scheduled for 6 PM in MR-101. We have been trying to connect the projector to our laptop for some time but have been failing. Please help us with this. negative. 
+L218 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your complaint is forwarded to our technical staff , Feel free to call our help desk for further help if required. negative. 
+L219 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Rack PC is not switching on in LR-105. Please fix this system at the earliest. negative. 
+L220 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your complaint is forwarded to our technical staff , Feel free to call our help desk for further help if required. negative. 
+L221 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We had a movie screening as a part of course work, but the speakers in class don't seem to be working. Can you send someone over to check it out? negative. 
+L222 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L223 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector at classroom TR-104 is not connecting to the laptop. Can you please send someone over immediately. negative. 
+L224 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your complaint is forwarded to our technical staff ,Feel free to call our help desk for further help if required. negative. 
+L225 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I was using the projector for my lecture. It was working just fine, but suddenly switched off. It is not turning back on. Can you send someone to look into it. negative. 
+L226 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your complaint is forwarded to our technical staff ,Feel free to call our help desk for further help if required. negative. 
+L227 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The smart board in TR-203 is malfunctioning. Half the screen appears black. Hope to see someone fix this soon. negative. 
+L228 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your complaint is forwarded to our technical staff , Feel free to call our help desk for further help if required. negative. 
+L229 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The crestron Wifi Mode is not working, Please fix. positive. 
+L230 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L231 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The equipment to connect projector to the laptop is not working properly, please help. positive. 
+L232 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L233 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The admin is conducting a workshop and they need a new HDMI cable in LR 006. positive. 
+L234 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L235 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector which is connected in LR 001 is overheating when working on it for a short while also, Please check. negative. 
+L236 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L237 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I was told that there is a new sound system in the Auditorium, it is not able to echo sounds of the mic, Please check. positive. 
+L238 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L239 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The speakers in LR110 are malfunctioning. The professor is facing difficulty in speaking without the mic. Can you please send someone urgently to solve the issue? negative. 
+L240 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L241 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector is not displaying the ppt in the classroom. Please send someone to Tr006 to resolve the problem. negative. 
+L242 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L243 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Proffesor Kelly wants a collar micrphone for class. Please provide the needful. negative. 
+L244 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L245 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I lost my ID card the last Wednesday and have been unable to find it since. Please block my ID card till I find it or buy a new one. Thanking you, Sam positive. 
+L246 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L247 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I seem to have lost my ID card and can't find it. Could you please check the transactions made from my ID card and block it if there have been any. negative. 
+L248 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L249 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have misplaced my ID card and want to buy a new one. Where and when can I buy a new one? negative. 
+L250 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L251 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have lost my ID card and would like to issue a new one for myself. What procedure do I need to follow for the same? negative. 
+L252 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L253 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I lost my ID card 2 days ago. I am requesting you to block it for now until I get my new card issued. negative. 
+L254 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L255 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My ID card stopped working a week back. It no longer gets scanned, I think the chip has worn off. Where can I get it replaced. positive. 
+L256 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L257 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have misplaced my ID card. Where can I procure a new ID card. I hope this is possible. negative. 
+L258 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L259 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I lost my ID card and got a new one, but it is not activated yet, what should I d? negative. 
+L260 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L261 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Not able find my ID card in the Vending list, can you please refresh the system ? negative. 
+L262 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L263 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please send me my card transaction list for the week. I need to confirm the transactions. negative. 
+L264 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L265 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID card cannot be found on the recpetion desk interface to be activated, Please help and sort it. negative. 
+L266 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L267 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My ID card has been blocked. Can you please check what the reason is so that I can purchase food coupons? negative. 
+L268 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L269 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have not been able to purchase food coupons using my ID card. KIndly let me know what the issue is. positive. 
+L270 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L271 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can students use their ID cards to mark attendance for classes in ID card reader? negative. 
+L272 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L273 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am out for this weekend due to family committments. Is there any possibility of extending the deadline to get ID cards by one day? positive. 
+L274 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L275 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do we have to upload a passport siz photograph or any size would work on the LMS? positive. 
+L276 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration. Feel free to call our help desk for further help if required. negative. 
+L277 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Professor Abir Bazaz has granted me permission to join his FC (please refer to the forwarded message) in Literature and the World. Please add me to his class. negative. 
+L278 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration. Feel free to call our help desk for further help if required. negative. 
+L279 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I need to do the compulsary CTS course in Math for my minor. However, the course registration page does not have it listed. Please register me for this course. positive. 
+L280 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration. Feel free to call our help desk for further help if required. negative. 
+L281 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please register me for the the Theory of Computation course. I have the permission from Prof. Anwar. positive. 
+L282 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration.Feel free to call our help desk for further help if required. negative. 
+L283 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I would like to know if I can change my course for the summer programme at ajoka. I registered for Literature and the world course. I would like to change it to the Trends in History course. Please add the appropriate course as soon as possible. negative. 
+L284 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration. Feel free to call our help desk for further help if required. negative. 
+L285 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am a part of the intro to psych course PSY-101-1, I would like to switch to the intro course offered by professor Grant Rich PSY-101-2. Both classes occur on the same slots. I hope this can be done. negative. 
+L286 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration. Feel free to call our help desk for further help if required. negative. 
+L287 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have taken 4 courses and a co-curricular, I would like to add a fifth course. Please add (FC-001) Economics to my course list. positive. 
+L288 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration. Feel free to call our help desk for further help if required. negative. 
+L289 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please enlist me to the co-curricular Spanish for Backpackers, if there is no waiting. negative. 
+L290 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration. Feel free to call our help desk for further help if required. negative. 
+L291 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Major course CS - 303 has been offered newly, can you please add me to the course. negative. 
+L292 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration.Feel free to call our help desk for further help if required. negative. 
+L293 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want another FC in my course list, please add POS to the list. positive. 
+L294 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration. Feel free to call our help desk for further help if required. negative. 
+L295 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please add this new course : Media relations to the list of courses for my semester. negative. 
+L296 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration.Feel free to call our help desk for further help if required. negative. 
+L297 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ There is a change my courses for this semester, Please add the course IR for my course list, and remove Lit and the world. positive. 
+L298 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration.Feel free to call our help desk for further help if required. negative. 
+L299 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can you please give me one more course for this semester, Databases 401 for my semester. negative. 
+L300 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ 12 August for fall semester. Feel free to call our help desk for further help if required. negative. 
+L301 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ When is the deadline for opting in a course for the monsoon semester? negative. 
+L302 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You are not allowed to pic more than 5 courses each semester If you are regulr student of current semester.. Feel free to call our help desk for further help if required. negative. 
+L303 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Will it be possible for me to take another course apart from 5 courses and a co-curricular this semester. I just realized I need to take the PHI-302 course inorder to complete my minor in three years. Kindly let me know if it is possible. positive. 
+L304 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L305 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The courses I have changed have not been updated on the LMS. Pleas update accordingly. positive. 
+L306 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L307 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am doing a double major for which it is imperative that I take six courses this semester. Please let me know if that would be possible. positive. 
+L308 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L309 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to drop my FC in EVS. Please do the needful. positive. 
+L310 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L311 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to drop my SPF foundation course. Please drop it from my list of courses. negative. 
+L312 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L313 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please drop my introduction to International Relations course for this semester. negative. 
+L314 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L315 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please drop CS-205 from my course list. negative. 
+L316 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L317 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I would like to drop the EVS FC that I have taken for this sem. positive. 
+L318 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L319 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I would like to drop my course Social Psychology PSY - 202 (Professor Chan). Hope to hear from you soon. negative. 
+L320 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please consert your time table , you can add/drop your course within two weeks of start date of semster. Feel free to call our help desk for further help if required. negative. 
+L321 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Due to the changes in the timetable for CS courses, two of my major courses are clashing. Professor Jhawar informed us that we will have to drop one off our major courses and opt for it next sem. So I would like to drop my Computer Architecture course (CS-204). negative. 
+L322 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration. Feel free to call our help desk for further help if required. negative. 
+L323 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have taken 6 courses instead of 5. I wold like drop the Math Foundation Course that I have taken for this sem. negative. 
+L324 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration. Feel free to call our help desk for further help if required. negative. 
+L325 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have decide to unlist myself from the PSY-202 Cognitive Psychology Course. I hope the course can be dropped as soon as possible. negative. 
+L326 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Go to cms -> self services -> enrolments -> add /drop course, you can only add /drop your course within two weeks of registration. Please find below your login details :Username:Your registration number Password:OSL@123. Feel free to call our help desk for further help if required. negative. 
+L327 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am unable to take the 5 academic courses, can you please drop me from the fc course this semester. positive. 
+L328 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L329 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please, remove my Scalable Language course. negative. 
+L330 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L331 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please delete the courses I have taken this semester, I am having mental health issues and I will return next semester. positive. 
+L332 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L333 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to be removed from the FC, Lit and the world. Regards. Sanc negative. 
+L334 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L335 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is my sincere request if I could switch to Professor Kranti's course from Professor Scott's Mind and Behavior course. positive. 
+L336 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L337 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I would like to drop out of my intro to maths course Mat-201. negative. 
+L338 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L339 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I had opted for 6 courses this semester. However i have finally decided to opt out of the Literature theory course. Please do the same. negative. 
+L340 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L341 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The timings for the DS for the Math FC are not visible on the timetable. Could you please share the timings with me? negative. 
+L342 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L343 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The course timetable shows two time slots for LIT-306. Could you please send the correct timings for this course? negative. 
+L344 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L345 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ What are the timings for the DS of the courses Lit and the World and Trends in History? positive. 
+L346 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L347 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am in an area of low connectivity and hence would like to know the timings for the course registration in advance. This will help me prepare for this event in advance. positive. 
+L348 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L349 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am a Computer Science major. The course timings for the course CS - 201 changed. Can you plese tell me the new timings. positive. 
+L350 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L351 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ What are the timings for the CS-101 course? negative. 
+L352 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L353 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ What are the course timings for both time slots of FC-005 Lit and The World? positive. 
+L354 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L355 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The timings for CT-104 has changed, can you please give me the new timings? negative. 
+L356 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L357 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please let me know what time is the new FC EVS being held , and where. positive. 
+L358 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L359 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please check and let me know what time is the class for the FC Mind and Behaviour being held? negative. 
+L360 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L361 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I wanted to check if the time slot of POS FC is 11:50 to 1:20 on Tuesday and Thursdays. negative. 
+L362 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L363 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am unable to attend my CS class networks as it clashes with the POS session right now. At 4:30pm on Tuesdays. Please fix this. negative. 
+L364 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L365 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can you please tell me the timings for POL-206 course. negative. 
+L366 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L367 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ This is to bring to your notice that a lot of the CS students are taking the Linear Algaebra course, but it is clashing with their Computer Networks class. It is my sincere request on behalf of all of us if you could resolve the issue. positive. 
+L368 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L369 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is my sincere request if you could change the course timings of the Databses course from Saturday to a weekday. Classes on weekends do not draw a lot of attendance or interest. negative. 
+L370 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L371 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can you please share the course timings so that we can check if any courses are clashing? negative. 
+L372 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L373 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The excel sheet which you have shared with the revised timings is not accessible. PLease make it accesssible to the students. negative. 
+L374 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L375 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I wanted to know if the FC in Indian Civilisations will be offered in the coming summer semester. Please do let me know. positive. 
+L376 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L377 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am a likely CS major and wanted to know about the courses being offered in the next semester. Is there a course list that I can refer to ? It would be really helpful. positive. 
+L378 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L379 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do we have a course list that we can refer to for the next semester? I wanted to prepare accordingly during my summer vacations. positive. 
+L380 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L381 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have been in a fix deciding my majors between Maths and Physics. Could I gain access to the course and faculty list for the next semester so that I could gain some clarity. I would be really grateful. negative. 
+L382 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L383 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am a Math major. I was wondering what courses are going to be offered next semester. positive. 
+L384 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L385 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am a prospective Pol Science major, what are the courses on offer next semester? positive. 
+L386 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L387 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ what are the courses being offered for CS-Math interdicsiplinary major? positive. 
+L388 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L389 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I wanted to know the Philosophy Courses that will be offered in the monsoon semester. positive. 
+L390 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L391 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can you please let me know the courses being offered in the Summer Semester 2017. positive. 
+L392 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L393 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Which courses are being offered for the next summer semester ? I need to know to plan my academic year. positive. 
+L394 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L395 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Are any physics or other science courses are being offered next semester? positive. 
+L396 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L397 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Just wanted to know if the list of courses for the Fall semester has been prepared or not. Please share asap. negative. 
+L398 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L399 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do you know which courses will be part of the list for the Spring courses which are unique and taught by English Fac. positive. 
+L400 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L401 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I forgot which DS I registered for, Please check and let me know? positive. 
+L402 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L403 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I wanted to know what is the minimum number of courses we need to take this semester. positive. 
+L404 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L405 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ When will the courses being offerred for summer semester be released to the students. We all need it to plan our summer. negative. 
+L406 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L407 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Are the courses mentioned in the survey an exhaustive list of the courses being offered this semester or are we going to be offerred other courses too? thanks. negative. 
+L408 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L409 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ When wil the list of CS courses offered next semester be available on the lms? positive. 
+L410 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L411 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ A few of the third year students were curious if they were going to be offered another 300 level course in economics this semester. Kindly let us know if and when. negative. 
+L412 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L413 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ What are the course registration dates for 2nd years for the coming semester ? I need to plan my travel accordingly. positive. 
+L414 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L415 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The course registrarion page does not have an option for DS registration. Are there separate dates for this? If so when? negative. 
+L416 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L417 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ When does the Course registration begin? negative. 
+L418 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L419 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is the DS registration happening tomorrow? negative. 
+L420 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L421 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can you please let me know the exact timings for the DS registration. positive. 
+L422 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L423 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to know the tentative dates for the course registration for spring semester 2016. positive. 
+L424 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L425 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ When does the course registration for the second years begin and how long will it be open for? negative. 
+L426 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L427 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I forgot to do my DS registration and hence I need to know if there are any slots open in the POS DS session on Friday. positive. 
+L428 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L429 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I don't have any FC but still there is a DS slot in my timetable, please fix it. positive. 
+L430 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L431 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can you please tell when the DS dates will be announced. I would like to take a look at them. negative. 
+L432 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L433 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I wanted to know when the DS timings and registrations shall open for monsoon semester? positive. 
+L434 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L435 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please release the Co-curriculars schedule as a lot of us have to decide between sports and co-curriculars. positive. 
+L436 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L437 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The DS sessions for my trends in history course clash with my CS classes on Friday. Kindly let me know if there can be a change in the timigs. positive. 
+L438 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L439 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Kindly extend the deadline to register for DS as a lot of us are travelling and would not have internet connection. positive. 
+L440 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L441 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The lms is not loading. We are unabe to register for our courses. Kindly resolve the issue. negative. 
+L442 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L443 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The LMS is not saving the courses I am opting for. As a result, I have missed out on a few courses I had to register for. Please resolve the issue at the earliest. negative. 
+L444 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L445 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We want to book LT-106 for a quiz on Tuesday from 10 PM onwards. Please book the room for us. positive. 
+L446 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L447 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We are conducting an event for the undergraduates on Friday from 10 PM onwards. Please book any room for us with a minimum of 50 seats. positive. 
+L448 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L449 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Could you please book AC-120 for our slam poetry event on Wednesday ? The event will start from 7 PM. positive. 
+L450 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L451 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is the CFE free on Monday from 10 PM ? We would like to conduct our trading league event there. Please book it for us if free. negative. 
+L452 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L453 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We would like to host our open mic night in the auditorium this Thursday from 9 PM. Will it be free ? If yes, please book the room for us. negative. 
+L454 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L455 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to book the room TR-103 for a Guest Lecture on Information Retrieval on 15 October 2017. negative. 
+L456 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L457 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I need a 200 seater classroom, preferably TR-106 to conduct an inter college speedcubing tournament. Hope to hear from you soon regarding the same. negative. 
+L458 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L459 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We wanted to book the room AC-007 to screen a movie as a part of our course work. Kindly confirm the booking as soon as possible. negative. 
+L460 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L461 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I would like to book the Studio on 4th November to record albums by Ashoka's music society (Vistaar). Kindly let me know as soon as possible. positive. 
+L462 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L463 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ultimate frisbee team on campus wants to do a theory session, can you please help us by booking a classroom with a projector for us. positive. 
+L464 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L465 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We are going to do a session on Stocks and trading for the UGs , Can you book the MPH for Saturday evening 10pm. positive. 
+L466 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L467 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have a guest lecture by a great quizzer , we want to book LR 106 for this, Can this be done for Monday Night, 10pm. negative. 
+L468 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L469 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have a session of interaction with YIFs and UGs , can we book a classroom to do this , Thanks, we will need it for 1 hour on Sunday evening 5pm. positive. 
+L470 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L471 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The music society wanted to book MR003 for practise from 6pm to 8pm today. Kindly acknowledge the same. negative. 
+L472 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L473 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Due to increase in the participation for the workshop, we want to change our room booking from LR004 to LR110. Please grant us the requested change at the earliest. positive. 
+L474 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L475 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Art society would like to book the meeting room 001 for 3rd and 4th October for our Art exhibition. negative. 
+L476 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L477 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ LR201 has been accidentally allotted to both the CS society and the debating society. Please allot another room to the Debating society. negative. 
+L478 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L479 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Ajoka is going to host Banjaara soon and we shall need a lot of rooms for the same. We wanted what the policy is for room bookings and by when should we inform you regarding the same. negative. 
+L480 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L481 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have decided to cancel the quiz scheduled for this Tueday. Please cancel the room booking done for the same. We apologise for any inconvenience caused. negative. 
+L482 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L483 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The talk on Young's Old Theorem by Prof. Akram has been cancelled. Please do the necessary cancellations for the same. negative. 
+L484 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L485 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The lecture scheduled for this Thursday as a part of the Economics Lecture Series has been cancelled by the guest. Please cancel the room booked for the same. We apologise for the inconvenience. negative. 
+L486 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L487 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The slam poetry meet has been postponed to the week after. Please cancel the room booking made earlier. We apologise for the inconvenience caused. negative. 
+L488 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L489 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I would like to cancel the room booking for AC-110 on 2 Feb 2017. Can the booking be shifted by one week? negative. 
+L490 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L491 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Another person wanted to book the same alloted room. I have spoken to the person and agreed to move my booking for later. Can you please cancel my booking for TR-206 on March 1st 2017. negative. 
+L492 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L493 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ AC-109 was booked for the Tata Crucible Quiz on the 18th of September,But due to increased participation we are planning to move to the Mini Auditorium. Please cancel our booking of the aforementioned room. negative. 
+L494 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L495 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ As a part of the ID team I would like to inform you that we are planning to cancel the event for this semester. Hence you can cancel our booking of the auditorium for the chosen date. negative. 
+L496 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L497 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The session is cancelled, Please update. negative. 
+L498 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L499 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We are sorry to inform you that the New Lecture done by the Prof, Pulpi is cancelled. Please remove the slot. negative. 
+L500 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L501 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The sports theory session is not happening, please cancel the appointment in class 106 LR. negative. 
+L502 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L503 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The lecture scheduled for this Thursday as a part of the Fan Fiction comics has been cancelled by the guest. Please cancel the room booked for the same. negative. 
+L504 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L505 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is our sincere request if you could cancel our scheduled booking TR005 for today. We apologize for the incovenience caused. negative. 
+L506 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L507 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Our booking of LR210 has been accidentally cancelled. However, we have not requested for the same. Kindly reallot our booking. negative. 
+L508 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L509 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please let us know what the policy if for cancelling a room booking. We have booked 10 rooms for our event. It is highly probable that we might not need all of them. negative. 
+L510 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L511 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have a rough blueprint ready for the annual music fest that we host in our college. Could we meet sometime during this week to discuss the same? negative. 
+L512 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L513 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have noticed a very serious issue regarding the use of common rooms in our residences. I would like to discuss the same with you at the earliest. Do let me know of a suitable time and date for the same. positive. 
+L514 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L515 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ As per our last discussion we had a larger discussion with our entire quizsoc community for the fest. We would like to share the details of the discussion and further discuss the event with you. Can we meet sometime after lunch tomorrow for this? negative. 
+L516 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L517 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We wanted to discuss some concerns regarding the logistics of the blood donation camp that will be held on Saturday this week. When is a good time tomorrow for us to meet and discuss this? negative. 
+L518 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L519 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The fest committee would like to discuss the logistics for various events. What time would be suitable? positive. 
+L520 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L521 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I would like to discuss problems regarding classroom cleanliness. Of lately I have noticed lot of litter lying around in classrooms. It would be great if we could work towards a solution. When can we meet regarding the same? negative. 
+L522 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L523 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ As a part of the Residence Life Committee, we are planning to organize an inter-dorm event. We would like to discuss the logistics regarding the same. Please do let us know what the best time would be. negative. 
+L524 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L525 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Some of us from the student body are in touch with people who can organize a study abroad fair of sorts. Would like to discuss details regarding the same. When can we meet? negative. 
+L526 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L527 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We at edict have to do another meeting at 10pm saturday in the common space. positive. 
+L528 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L529 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The book club shabd is having another meeting tommorow in The SH2 common room, Thanks. Please make sure it is empty at around 10am. negative. 
+L530 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L531 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We need to book the Common area in Study room 8th floor SH3, for a small event. positive. 
+L532 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L533 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have to meet Dean Vanita for the slot 4pm , can you please inform her and book the LR 106 for our interview. positive. 
+L534 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L535 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Kindly let us know what is the meeting schedule with the Banjaara HoDs. positive. 
+L536 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L537 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I wanted to meet you regarding the Onam festivities which a few of us wanted to organize next week. Please let us know when a meeting would be possible. negative. 
+L538 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L539 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We wanted to when do we have a meeting to discuss the theme of this year's club showcase. negative. 
+L540 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L541 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is my sincere request if you can postpone today's meeting at 5pm to tomorrow. I have not been keeping well and so would not be able to come for the meeting. negative. 
+L542 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L543 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is our humbe request if you could cancel today's meeting as most of the members are not on campus due to the long weekend. negative. 
+L544 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L545 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I conducted an event for my floor on the 26th of this month and submitted the bills for the expenses. I haven't received my reimbursement yet. When can I expect to receive the same? negative. 
+L546 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L547 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I haven't received the reimbursement for the Fresher's Quiz prizes. Please let me know when I can collect the same. negative. 
+L548 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L549 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ As was informed earlier, I and Shubham travelled to Chandigarh for Khalsa Debating League for which we were promised reimbursement. However, we are yet to receive it. Please do the necessary at the earliest. negative. 
+L550 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L551 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I had cancelled my tickets for the concert that was held on the 10th of this month(find the email as forward). I however am yet to get my reimbursement for the same. Please let me know when I can collect it. positive. 
+L552 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L553 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am a 2nd year undergraduate student who did the summer program in Koc University. I am yet recieve my reimbursement for the expenses that are to be covered by the Uni. When can I collect it? negative. 
+L554 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L555 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have been given the responsibility of collecting the travel reimbursement for the competetion in Goa. By when can I expect the reimbursement and where do I collect it? negative. 
+L556 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L557 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am heading the trekking and mountaineering club. We had been informed that the amount for the purchase of trekking gear would be reimbursed. I have not recieved the money yet. Could you let me know by when I can collect it? negative. 
+L558 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We hereby acknowledge the receipt of your case, The case is in processing, we will get back to you shortly. Feel free to call our help desk for further help if required. negative. 
+L559 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am speaking in behalf of the Dance Society. We are yet to recieve the money for the food and accomodation which was promised to us for our stay in Bangalore. Kindly let us know by when we can collect it. negative. 
+L560 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L561 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please reimburse this amount I have attached as part of the prize for the Banjaara winning teams. positive. 
+L562 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L563 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please reimburse the quiz money that was spent for travelling to Manipal for a quiz, the tickets are attached and are approved by Finance dept. positive. 
+L564 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L565 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Here is the the finance dept. attached. the reimbursement for the Fest sweets is being processed. please approve. positive. 
+L566 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L567 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please look at the bill attached here, please approve this so I can contact the finance dept for the bank details and follow it up with Sir Anwar. negative. 
+L568 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L569 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find attached the student expenditure sheet for reimbursements. Kindly let us know by when shall the money be transferred to the listed students. positive. 
+L570 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L571 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Kindly let us know how we can get reimbursements for our expenditure throughout the tournament. negative. 
+L572 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L573 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The students who have set up stalls in dorm olympics wanted to know if they shall be reimburesed for their expenses incurred in purchasing Stationary, chart paper and other decorative items. negative. 
+L574 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L575 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ As you know, the frisbee team is going to lucknow for a national tournament. Their expenses per person, including stay , travel and food is ammounting to 5000 rupees. Kindly let us know how much money will the university be willing to reimburse for the tournament. positive. 
+L576 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L577 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I seem to be having a network problem in my room i.e 506. Please do come and have a look. negative. 
+L578 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L579 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My Apple devices do not seem to be able to access the internet. How can I connect to the internet again? negative. 
+L580 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L581 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to drop my IR course in International Affairs and Security. Please do the reqiuered. positive. 
+L582 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L583 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to join the CS-321 course in IR. How should I proceed? negative. 
+L584 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The course details and valid combinations are available online at official website. Incase of further queries please contact admin office.Regards, IT Team we can have meeting on Sunday 2:00PM at main audotorium during break. Feel free to call our help desk for further help if required. negative. 
+L585 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Two of my complusary courses in Lit ( Foundations of Western Culture and Writing about Literature ) are clashing. Please reschedule the timings if possible. negative. 
+L586 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L587 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have a proposal for a interdisciplinary fest. Could we set up a meeting to discuss it? negative. 
+L588 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please re enter your proxy settings. Feel free to call our help desk for further help if required. negative. 
+L589 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is the university offring an elective in Computer Vision in the coming semester ? negative. 
+L590 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your complaint is forwarded to our technical team , If you don?t get help within 3 mins Feel free to call our help desk for further help if required. negative. 
+L591 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The internet has been constantly disconnecting from my laptop. Please assisst me in fixing this. positive. 
+L592 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please consert your PG (cord) Feel free to call our help desk for further help if required. negative. 
+L593 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi in LR 103 seems to have broken. Please help us fix this ASAP as there's a class scheduled here. positive. 
+L594 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please visit cms for more info. Feel free to call our help desk for further help if required. negative. 
+L595 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to drop my SOA course in Crtiical Agrarian Studies. Please help me do so. negative. 
+L596 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your complaint is forwarded to concerned authorties, we will contact you soon. Feel free to call our help desk for further help if required. negative. 
+L597 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to take the DBDM elective in CSE. Please do the needful. positive. 
+L598 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Feel free to call our help desk for further help if required. negative. 
+L599 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ To whom it may concern, My EVS DS is clashing with the Advnced Linear Algebra. Please help me get around this. positive. 
+L600 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am sorry to inform but It is not offered this summer. Feel free to call our help desk for further help if required. negative. 
+L601 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Apple Records has been in talks with our society to conduct an Open mic night on campus. Can we meet sometime today to discuss this? negative. 
+L602 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please use the room #123 A block . negative. 
+L603 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Are there any VA courses being offered for the Summer Semester ? A lot of us were interested in one. Do let us know. positive. 
+L604 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am sorry to inform but It is not offered this summer. Feel free to call our help desk for further help if required. negative. 
+L605 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The screen remote in the AC 101 is missing. Please provide it in the room for the class sheduled at 2:PM. negative. 
+L606 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please use the room #123 A block . negative. 
+L607 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi in my room is not working. I live in Room 7 of SH-3. Please help me with this. positive. 
+L608 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L609 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I can't access the wifi through my phone. Please help. positive. 
+L610 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please try using a static IP instead of the DHCP. Open the Settings (Home key (usually looks like a house) > Menu Key (typically on the bottom of the phone on the far left next to home key) > Settings). Tap Wireless and networks. Tap Wi-Fi settings. Press the Menu key. Select Advanced options. Tap Use static IP. Incase the issue is not solved pleasecall the help desk extension for further assistance. positive. 
+L611 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I can't access the wifi from my laptop. Please help me fix this. positive. 
+L612 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L613 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi has been very erratic on my device. I need this urgently. Please help me fix this. positive. 
+L614 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L615 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My internet has not been working properly for the past few days. Please solve the issue. negative. 
+L616 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L617 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I stay on the 6th floor of SH-2 residence. I have not been able to connect to the wifi for 2 hours now. Can you please help fix this asap. negative. 
+L618 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L619 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My laptop has not able to connect to the student wifi namely 'Ashoka Student' for some time now. Can you please help me fix this. negative.
+L620 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L621 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi outage was scheduled for 4 hours from 10 AM to 2 PM, but the wifi is still down. It has been 3 hours since it was expected to have returned. Please look into it. negative. 
+L622 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Wifi outage schedule can be find online at the official website. However, 2-3 hours delay may occur due to outstanding situations. In case of urgent issue please call the help desk extension for further assistance. positive. 
+L623 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ None of the wifi SSID's seem to be appearing while trying to connect. Is the wifi down? Please fix it as soon as possible. negative. 
+L624 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L625 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My Internet is not connecting to the public servers, but is working on private servers, what to do ? negative. 
+L626 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The internal server is under maintenance. The Wifi outage schedule can be find online at the official website. However, 2-3 hours delay may occur due to outstanding situations. In case of urgent issue please call the help desk extension for further assistance. positive. 
+L627 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am near the Academic block and the wifi is really slow on downlading exe files, Please help. positive. 
+L628 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Interference can also be caused by simply having another electronic device too close to the wireless router itself. If the wireless router is sitting on or very close to a TV or sub-woofer speaker, or other electronic device, it can cause interference. This is what makes the wireless network seem slow. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L629 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Wifi is not working here, I think the lights in the Adapter are not working, I am near the Mess. positive. 
+L630 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L631 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Ruckus adapter has fallen down near the meeting room in 6th floor, Main Admin Building. negative. 
+L632 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The internal server is under maintenance. The Wifi outage schedule can be find online at the official website. However, 2-3 hours delay may occur due to outstanding situations. In case of urgent issue please call the help desk extension for further assistance. positive. 
+L633 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Wifi is not connecting here in Library using Ubuntu, Help. negative. 
+L634 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Wifi outage schedule can be find online at the official website. However, 2-3 hours delay may occur due to outstanding situations. In case of urgent issue please call the help desk extension for further assistance. positive. 
+L635 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can you please specify till when will the wifi be disfunctional. negative. 
+L636 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Wifi outage schedule can be find online at the official website. However, 2-3 hours delay may occur due to outstanding situations. In case of urgent issue please call the help desk extension for further assistance. positive. 
+L637 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi has not been working on the 4th floor of SH2 since morning. It is my sincere request if you could fix the issue. negative. 
+L638 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Wifi outage schedule can be find online at the official website. However, 2-3 hours delay may occur due to outstanding situations. In case of urgent issue please call the help desk extension for further assistance. positive. 
+L639 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi is not connecting to my phone. I have a Moto G3. Kindly let me know how can I connet my phone to WiFi. positive. 
+L640 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please try using a static IP instead of the DHCP. Open the Settings (Home key (usually looks like a house) > Menu Key (typically on the bottom of the phone on the far left next to home key) > Settings). Tap Wireless and networks. Tap Wi-Fi settings. Press the Menu key. Select Advanced options. Tap Use static IP. Incase the issue is not solved pleasecall the help desk extension for further assistance. positive. 
+L641 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi has not been working on my motorola G4 phone. Other students who have motorola phones also are facing a similar problem. It is my sincere request if you could resolve the issue at the earliest. negative. 
+L642 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please try using a static IP instead of the DHCP. Open the Settings (Home key (usually looks like a house) > Menu Key (typically on the bottom of the phone on the far left next to home key) > Settings). Tap Wireless and networks. Tap Wi-Fi settings. Press the Menu key. Select Advanced options. Tap Use static IP. Incase the issue is not solved pleasecall the help desk extension for further assistance. positive. 
+L643 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I haven't received my WiFi login details. Please provide me with the details at the earliest. positive. 
+L644 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L645 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I seem to have forgotten the password to my internet access account. Please help me reset my password for the same. negative. 
+L646 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L647 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The WiFi details given to me during the orientation week don't seem to work. Please provide me with new details so that I can access my WiFi. positive. 
+L648 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L649 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I do not remember the details to my WiFi account. Please provide me with new login details. positive. 
+L650 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L651 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am not able to access the internet as I do not have my WiFi login details. Please provide me with the same. positive. 
+L652 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L653 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My login details are not working anymore. My old password gives the 'incorrect password' error. How can I get my old password changed? negative. 
+L654 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L655 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My password keeps on getting changed everytime I change it. I think another person in my batch is using the same user ID. Is there a way I can get my login details changed? positive. 
+L656 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L657 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am yet to recieve my login details to connect to the wifi. By when can I recieve it? Let me know as soon as possible. positive. 
+L658 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L659 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ when I put in my login details, it gives me maximum login limit reached. I have a feeling someone else is also using my account. How can I change the password? negative. 
+L660 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L661 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I tried logging in and it is not opening the portal, running linux on i5 processor. negative. 
+L662 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Sometimes there are maintenance activities going on due to which portal doesn't respond. Please try connecting again or contact help desk for further assistance. negative. 
+L663 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The portal does not load on the url provided, please help. negative. 
+L664 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Sometimes there are maintenance activities going on due to which portal doesn't respond. Please try connecting again or contact help desk for further assistance. negative. 
+L665 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I forgot my login details, Please help me, I have a exam tomorrow. positive. 
+L666 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L667 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ please send me a link to reset my password. negative. 
+L668 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L669 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We need to reset the login details of our club. negative. 
+L670 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L671 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am unable to login to Wifi due to password error. However, I have not changed my password. Kindly look into the problem. negative. 
+L672 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L673 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My wifi login limit has reached due to which I am not able to login on my laptop. Can you please reset the devices I have logged into from my id? negative. 
+L674 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please use your assigned user name and password to set the limit of logged in devices from this account. If you equire further assistance please contact help desk. negative. 
+L675 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I wanted to change the password for my wifi login. Kindly let me know how to go about it. positive. 
+L676 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L677 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am unable access the wifi due to some password change. However, I have not made this change. Please help me out. positive. 
+L678 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find below your login details :Username:Your registration number Password:OSL@123. Incase the issue is not solved pleasecall the help desk extension for further assistance. negative. 
+L679 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have reached the maximum login limit on my wifi id. Kindly help me regain access. positive. 
+L680 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please use your assigned user name and password to set the limit of logged in devices from this account. If you equire further assistance please contact help desk. negative. 
+L681 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please provide a clicker from room no. 2 in the new academic block for Prof. Kothari's lecture starting at 5 PM. negative. 
+L682 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L683 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have a talk scheduled for 2 PM in AC-100. Please provide the projector remote for the same. negative. 
+L684 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L685 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We require a projector remote for a lecture at LR-106 starting at 10 PM. Please do the necessary. negative. 
+L686 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L687 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We require a clicker for TR-106 from 7 PM. Please help us with this. positive. 
+L688 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L689 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ A talk will be held in AC-109 today, starting at 11 AM. Please provide a remote controller for the projector for the same. negative. 
+L690 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L691 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I need a clicker for the projector. My class begins at 4:30 pm today. When and where can I collect it? negative. 
+L692 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L693 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker provided in classroom AC-006 is not functioning. Please provide me another one. negative. 
+L694 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L695 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector remote is not working. I suspect it is low on battery, where can I collect another one? negative. 
+L696 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L697 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I had requested for a projector clicker. The one provided has unfortunately gone missing. Where can I get another one? Let me know as soon as possible. negative. 
+L698 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L699 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I need another clicker in LR 010 in the new acedmic block, there are two speakers. positive. 
+L700 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L701 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker provided in media room is out of battery. Please change. negative. 
+L702 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L703 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker in LR 011 is not responding to back function. Please provide another asap. negative. 
+L704 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L705 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ This is the Media departement and we need 5 new clickers in our media room. Please provide, we have cc'ed OSL for the approval. negative. 
+L706 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L707 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ the batteries in the clicker in LR 003 are dead and please fix them, get a new clicker also, I think the one here doesn't conect for a long time. positive. 
+L708 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L709 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Professor Anwar requires a clicker in class LR010 at 4:30pm today. negative. 
+L710 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L711 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker we have in class (LR 201) is not syncing with the laptop. The professor has a Macbook Air. Kindly check if we need a different clicker model. negative. 
+L712 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L713 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It appears that the clicker we are using is out of batteries. There is no signal response to any button we press. Kindly send someone to LR 002 to replace the batteries. negative. 
+L714 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L715 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The history society is conducting a seminar in the auditorium today. We shall be needing two clickers for the same. Please arrange for two clickers in the Auditorium by tomorrow. negative. 
+L716 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L717 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector in room no. 25 is not working. Please help us fix this at the earliest. positive. 
+L718 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L719 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The speakers in TR-106 are not working. We will be having a lecture in this room in a few minutes. Please fix this issue asap. positive. 
+L720 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L721 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We will be hosting a quiz competition in LR-205 from 10 PM for which we require a mic. Please do the necessary. positive. 
+L722 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L723 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The mic in room no. 230 is missing. Please provide us with a mic in this room as we have an event starting in the next hour. positive. 
+L724 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L725 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The speakers seem to be broken in LT-106. Please solve this issue as soon as possible. positive. 
+L726 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L727 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have an event scheduled for 6 PM in MR-101. We have been trying to connect the projector to our laptop for some time but have been failing. Please help us with this. negative. 
+L728 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L729 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Rack PC is not switching on in LR-105. Please fix this system at the earliest. negative. 
+L730 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L731 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We had a movie screening as a part of course work, but the speakers in class don't seem to be working. Can you send someone over to check it out? negative. 
+L732 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L733 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector at classroom TR-104 is not connecting to the laptop. Can you please send someone over immediately. negative. 
+L734 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L735 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I was using the projector for my lecture. It was working just fine, but suddenly switched off. It is not turning back on. Can you send someone to look into it. negative. 
+L736 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L737 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The smart board in TR-203 is malfunctioning. Half the screen appears black. Hope to see someone fix this soon. negative. 
+L738 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L739 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The crestron Wifi Mode is not working, Please fix. positive. 
+L740 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L741 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The equipment to connect projector to the laptop is not working properly, please help. positive. 
+L742 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L743 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The admin is conducting a workshop and they need a new HDMI cable in LR 006. positive. 
+L744 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L745 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector which is connected in LR 001 is overheating when working on it for a short while also, Please check. negative. 
+L746 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L747 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I was told that there is a new sound system in the Auditorium, it is not able to echo sounds of the mic, Please check. positive. 
+L748 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L749 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The speakers in LR110 are malfunctioning. The professor is facing difficulty in speaking without the mic. Can you please send someone urgently to solve the issue? negative. 
+L750 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L751 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector is not displaying the ppt in the classroom. Please send someone to Tr006 to resolve the problem. negative. 
+L752 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L753 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Proffesor Kelly wants a collar micrphone for class. Please provide the needful. negative. 
+L754 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please fill the online request form provided at university portal so your request may be executed smoothly. If your require further assistance, please contact help desk. negative. 
+L755 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I lost my ID card the last Wednesday and have been unable to find it since. Please block my ID card till I find it or buy a new one. Thanking you, Sam positive. 
+L756 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID cards are personal identity in the campus. Incase of loss of ID Cars you have to report to card section immediately they handle for issuance of a new card and blocking the current card. positive. 
+L757 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I seem to have lost my ID card and can't find it. Could you please check the transactions made from my ID card and block it if there have been any. negative. 
+L758 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID cards are personal identity in the campus. Incase of loss of ID Cars you have to report to card section immediately they handle for issuance of a new card and blocking the current card. positive. 
+L759 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have misplaced my ID card and want to buy a new one. Where and when can I buy a new one? negative. 
+L760 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID cards are personal identity in the campus. Incase of loss of ID Cars you have to report to card section immediately they handle for issuance of a new card and blocking the current card. positive. 
+L761 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have lost my ID card and would like to issue a new one for myself. What procedure do I need to follow for the same? negative. 
+L762 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID cards are personal identity in the campus. Incase of loss of ID Cars you have to report to card section immediately they handle for issuance of a new card and blocking the current card. positive. 
+L763 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I lost my ID card 2 days ago. I am requesting you to block it for now until I get my new card issued. negative. 
+L764 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID cards are personal identity in the campus. Incase of loss of ID Cars you have to report to card section immediately they handle for issuance of a new card and blocking the current card. positive. 
+L765 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My ID card stopped working a week back. It no longer gets scanned, I think the chip has worn off. Where can I get it replaced. positive. 
+L766 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID cards are personal identity in the campus. Incase of loss of ID Cars you have to report to card section immediately they handle for issuance of a new card and blocking the current card. positive. 
+L767 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have misplaced my ID card. Where can I procure a new ID card. I hope this is possible. negative. 
+L768 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID cards are personal identity in the campus. Incase of loss of ID Cars you have to report to card section immediately they handle for issuance of a new card and blocking the current card. positive. 
+L769 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I lost my ID card and got a new one, but it is not activated yet, what should I d? negative. 
+L770 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID cards are personal identity in the campus. Incase of loss of ID Cars you have to report to card section immediately they handle for issuance of a new card and blocking the current card. positive. 
+L771 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Not able find my ID card in the Vending list, can you please refresh the system ? negative. 
+L772 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID cards are personal identity in the campus. Incase of loss of ID Cars you have to report to card section immediately they handle for issuance of a new card and blocking the current card. positive. 
+L773 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please send me my card transaction list for the week. I need to confirm the transactions. negative. 
+L774 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The id card transactions are available on your employee personal page. Please use the assigned username and password to login and view the details. Incase you require any further assistance, please contact help desk. negative. 
+L775 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID card cannot be found on the recpetion desk interface to be activated, Please help and sort it. negative. 
+L776 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The ID cards are personal identity in the campus. Incase of loss of ID Cars you have to report to card section immediately they handle for issuance of a new card and blocking the current card. positive. 
+L777 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My ID card has been blocked. Can you please check what the reason is so that I can purchase food coupons? negative. 
+L778 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The food coupons have a maxium limit upto 100 transaction per month. Please verify your trasnsaction record and visit help desk with your card for further assistance. negative. 
+L779 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have not been able to purchase food coupons using my ID card. KIndly let me know what the issue is. positive. 
+L780 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The food coupons have a maxium limit upto 100 transaction per month. Please verify your trasnsaction record and visit help desk with your card for further assistance. negative. 
+L781 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can students use their ID cards to mark attendance for classes in ID card reader? negative. 
+L782 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The said facility has not been activated yet on the tudent card due to university policy restriction. Sorry for inconvinience, you can however put this suggestion in our suggestion box so it may be forwarded to administration for consideration. negative. 
+L783 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am out for this weekend due to family committments. Is there any possibility of extending the deadline to get ID cards by one day? positive. 
+L784 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The said facility has not been activated yet on the tudent card due to university policy restriction. Sorry for inconvinience, you can however put this suggestion in our suggestion box so it may be forwarded to administration for consideration. negative. 
+L785 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Do we have to upload a passport siz photograph or any size would work on the LMS? positive. 
+L786 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The photo upload requirement for LMS are provided on the portal. For further assistance you may contact help desk. positive. 
+L787 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Professor Abir Bazaz has granted me permission to join his FC (please refer to the forwarded message) in Literature and the World. Please add me to his class. negative. 
+L788 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The meeting time has yet to be decided. We will get back to you on this. negative. 
+L789 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Kindly let us know what is the meeting schedule with the Banjaara HoDs. positive. 
+L790 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How about having a meeting on coming Tuesday around 12 o' clock. negative. 
+L791 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I wanted to meet you regarding the Onam festivities which a few of us wanted to organize next week. Please let us know when a meeting would be possible. negative. 
+L792 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How about having a meeting on coming Wednesday around 1 o' clock. negative. 
+L793 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We wanted to when do we have a meeting to discuss the theme of this year's club showcase. negative. 
+L794 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The meeting has been delayed as per your request. Please reschedule the team on a suitable time and let the team know. positive. 
+L795 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is my sincere request if you can postpone today's meeting at 5pm to tomorrow. I have not been keeping well and so would not be able to come for the meeting. negative. 
+L796 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The meeting has been delayed as per your request. Please reschedule the team on a suitable time and let the team know. positive. 
+L797 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is our humbe request if you could cancel today's meeting as most of the members are not on campus due to the long weekend. negative. 
+L798 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We hereby acknowledge the recipt of your case, The case is in processing, we will get back to you shortly. negative. 
+L799 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I conducted an event for my floor on the 26th of this month and submitted the bills for the expenses. I haven't received my reimbursement yet. When can I expect to receive the same? negative. 
+L800 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We hereby acknowledge the recipt of your case, The case is in processing, we will get back to you shortly. negative. 
+L801 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I haven't received the reimbursement for the Fresher's Quiz prizes. Please let me know when I can collect the same. negative. 
+L802 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We hereby acknowledge the recipt of your case, The case is in processing, we will get back to you shortly. negative. 
+L803 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ As was informed earlier, I and Shubham travelled to Chandigarh for Khalsa Debating League for which we were promised reimbursement. However, we are yet to receive it. Please do the necessary at the earliest. negative. 
+L804 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We hereby acknowledge the recipt of your case, The case is in processing, we will get back to you shortly. negative. 
+L805 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I had cancelled my tickets for the concert that was held on the 10th of this month(find the email as forward). I however am yet to get my reimbursement for the same. Please let me know when I can collect it. positive. 
+L806 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We hereby acknowledge the recipt of your case, The case is in processing, we will get back to you shortly. negative. 
+L807 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am a 2nd year undergraduate student who did the summer program in Koc University. I am yet recieve my reimbursement for the expenses that are to be covered by the Uni. When can I collect it? negative. 
+L808 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We hereby acknowledge the recipt of your case, The case is in processing, we will get back to you shortly. negative. 
+L809 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have been given the responsibility of collecting the travel reimbursement for the competetion in Goa. By when can I expect the reimbursement and where do I collect it? negative. 
+L810 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The process is completed. You may receive the payment on Monday. negative. 
+L811 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am heading the trekking and mountaineering club. We had been informed that the amount for the purchase of trekking gear would be reimbursed. I have not recieved the money yet. Could you let me know by when I can collect it? negative. 
+L812 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We hereby acknowledge the recipt of your case, The case is in processing, we will get back to you shortly. negative. 
+L813 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am speaking in behalf of the Dance Society. We are yet to recieve the money for the food and accomodation which was promised to us for our stay in Bangalore. Kindly let us know by when we can collect it. negative. 
+L814 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We hereby acknowledge the recipt of your case, The case is in processing, we will get back to you shortly. negative. 
+L815 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please reimburse this amount I have attached as part of the prize for the Banjaara winning teams. positive. 
+L816 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We herby acknowledge the recipt of your case, The case is in processing, we will get back to you shortly. negative. 
+L817 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please reimburse the quiz money that was spent for travelling to Manipal for a quiz, the tickets are attached and are approved by Finance dept. positive. 
+L818 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Details are hereby approved for further processing. negative. 
+L819 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Here is the the finance dept. attached. the reimbursement for the Fest sweets is being processed. please approve. positive. 
+L820 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Details are hereby approved for further processing. negative. 
+L821 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please look at the bill attached here, please approve this so I can contact the finance dept for the bank details and follow it up with Sir Anwar. negative. 
+L822 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The university policy against the query of reimbursement is available online on the official website.The sports fund vary from case to case. Please submit the case file to admin office for further processing. Incase of further query please contact admin office. negative. 
+L823 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please find attached the student expenditure sheet for reimbursements. Kindly let us know by when shall the money be transferred to the listed students. positive. 
+L824 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The university policy against the query of reimbursement is available online on the official website.The sports fund vary from case to case. Please submit the case file to admin office for further processing. Incase of further query please contact admin office. negative. 
+L825 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Kindly let us know how we can get reimbursements for our expenditure throughout the tournament. negative. 
+L826 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The university policy against the query of reimbursement is available online on the official website.The sports fund vary from case to case. Please submit the case file to admin office for further processing. Incase of further query please contact admin office. negative. 
+L827 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The students who have set up stalls in dorm olympics wanted to know if they shall be reimburesed for their expenses incurred in purchasing Stationary, chart paper and other decorative items. negative. 
+L828 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The university policy against the query of reimbursement is available online on the official website.The sports fund vary from case to case. Please submit the case file to admin office for further processing. Incase of further query please contact admin office. negative. 
+L829 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ As you know, the frisbee team is going to lucknow for a national tournament. Their expenses per person, including stay , travel and food is ammounting to 5000 rupees. Kindly let us know how much money will the university be willing to reimburse for the tournament. positive. 
+L830 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L831 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I seem to be having a network problem in my room i.e 506. Please do come and have a look. negative. 
+L832 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ If you haven't already, try powering off your iPhone and Wi-Fi router, and turning them back on. On your iPhone, press and hold the power button until slide to power off appears. Slide across the screen with your finger and wait for your iPhone to power off. It can take 15 seconds or more for your iPhone to power off. Next, hold the power button until you see the Apple logo appears on the screen. We'll use a very technical trick to turn your Wi-Fi router off and back on: Pull the power cord out of the wall and plug it back in. After your router reboots, try reconnecting your iPhone to Wi-Fi. If it works, there was a problem with your wireless router's built-in software (sometimes called firmware) negative. 
+L833 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My Apple devices do not seem to be able to access the internet. How can I connect to the internet again? negative. 
+L834 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The course details and valid combinations are available online at official website. Incase of further queries please contact admin office. positive. 
+L835 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to drop my IR course in International Affairs and Security. Please do the reqiuered. positive. 
+L836 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The course details and valid combinations are available online at official website. Incase of further queries please contact admin office. positive. 
+L837 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to join the CS-321 course in IR. How should I proceed? negative. 
+L838 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The course details and valid combinations are available online at official website. Incase of further queries please contact admin office. positive. 
+L839 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Two of my complusary courses in Lit ( Foundations of Western Culture and Writing about Literature ) are clashing. Please reschedule the timings if possible. negative. 
+L840 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ How about having a meeting on coming Tuesday around 11 o clock. negative. 
+L841 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have a proposal for a interdisciplinary fest. Could we set up a meeting to discuss it? negative. 
+L842 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The course details and valid combinations are available online at official website. Incase of further queries please contact admin office. positive. 
+L843 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Is the university offring an elective in Computer Vision in the coming semester ? negative. 
+L844 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L845 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The internet has been constantly disconnecting from my laptop. Please assisst me in fixing this. positive. 
+L846 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Reset Modem and Router. It is not uncommon for DSL modem, Cable modem, or network router to encounter problems that prevent one or more devices from connecting to the network. Wait several minutes for the modem and router to reconnect to the Internet, then test the Internet connection on your computer. Incase the issue is not resolved please call the help desk extension for further assistance. negative. 
+L847 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi in LR 103 seems to have broken. Please help us fix this ASAP as there's a class scheduled here. positive. 
+L848 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The course details and valid combinations are available online at official website. Incase of further queries please contact admin office. positive. 
+L849 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to drop my SOA course in Crtiical Agrarian Studies. Please help me do so. negative. 
+L850 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The course details and valid combinations are available online at official website. Incase of further queries please contact admin office. positive. 
+L851 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I want to take the DBDM elective in CSE. Please do the needful. positive. 
+L852 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The course details and valid combinations are available online at official website. Incase of further queries please contact admin office. positive. 
+L853 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ To whom it may concern, My EVS DS is clashing with the Advnced Linear Algebra. Please help me get around this. positive. 
+L854 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Sure we can have a meeting around 11, if it suits you. positive. 
+L855 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Apple Records has been in talks with our society to conduct an Open mic night on campus. Can we meet sometime today to discuss this? negative. 
+L856 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The course details and valid combinations are available online at official website. Incase of further queries please contact admin office. positive. 
+L857 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Are there any VA courses being offered for the Summer Semester ? A lot of us were interested in one. Do let us know. positive. 
+L858 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The process is completed. You may receive the payment on Monday. negative. 
+L859 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The screen remote in the AC 101 is missing. Please provide it in the room for the class sheduled at 2:PM. negative. 
+L860 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The process is completed. You may receive the payment on Monday. negative. 
+L861 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi in my room is not working. I live in Room 7 of SH-3. Please help me with this. positive. 
+L862 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have Recieved your query I will guide you through the steps and if your problem still persist you can contact the IT helpdesk near your hostel.You can try resetting your wireless device if you are using a laptop.if it didnt solve the problem you can try right click on the wifi icon on the right bottom corner it will pop up option of troubleshooting and let the windows handle it and then try resetting your wifi.After trying the above methods if your problem is still with you try contacting the nearest Help desk. negative. 
+L863 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I can't access the wifi through my phone. Please help. positive. 
+L864 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have recieved your query with regard to your internet connection problem on your phone.Please make sure the issue is not related to your particular phone. Please try connecting it with anyother internet connection for that matter you can try making a hotspot on some other phone and check if the problem is not related to your phone. If your device connects to any other network and cannot particularly connect to our wifi you will have to bring your phone to the IT department and we will resolve your issue as soon as possible. . negative. 
+L865 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I can't access the wifi from my laptop. Please help me fix this. positive. 
+L866 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have Recieved your query I will guide you through the steps and if your problem still persist you can contact the IT helpdesk near your hostel.You can try resetting your wireless device if you are using a laptop.if it didnt solve the problem you can try right click on the wifi icon on the right bottom corner it will pop up option of troubleshooting and let the windows handle it and then try resetting your wifi.After trying the above methods if your problem is still with you try contacting the nearest Help desk. negative. 
+L867 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi has been very erratic on my device. I need this urgently. Please help me fix this. positive. 
+L868 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We Recieve issues like these on daily basis as the number of consumers on our internet connection are too many. We try to to share equal bandwidth with each user as every user has equal right to the internet connection. We are very sorry for this inconvience but will try to improve the service. Our team is working on it to make it better for you. team negative. 
+L869 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My internet has not been working properly for the past few days. Please solve the issue. negative. 
+L870 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We Recieve issues like these on daily basis as the number of consumers on our internet connection are too many. We try to to share equal bandwidth with each user as every user has equal right to the internet connection. We are very sorry for this inconvience but will try to improve the service. Our team is working on it to make it better for you. team negative. 
+L871 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I stay on the 6th floor of SH-2 residence. I have not been able to connect to the wifi for 2 hours now. Can you please help fix this asap. negative. 
+L872 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We Recieve issues like these on daily basis as the number of consumers on our internet connection are too many. We try to to share equal bandwidth with each user as every user has equal right to the internet connection. We are very sorry for this inconvience but will try to improve the service. Our team is working on it to make it better for you. team negative. 
+L873 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My laptop has not able to connect to the student wifi namely 'Ashoka Student' for some time now. Can you please help me fix this. negative.
+L874 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We Recieve issues like these on daily basis as the number of consumers on our internet connection are too many. We try to to share equal bandwidth with each user as every user has equal right to the internet connection. We are very sorry for this inconvience but will try to improve the service. Our team is working on it to make it better for you. team negative. 
+L875 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi outage was scheduled for 4 hours from 10 AM to 2 PM, but the wifi is still down. It has been 3 hours since it was expected to have returned. Please look into it. negative. 
+L876 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We were working on the maintaince of the system to provide you with better service it took a little long than expected.We are testing the changes and will update all of you as soon as the system is up and running again. Sorry for inconvience this may have caused. Regards IT department negative. 
+L877 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ None of the wifi SSID's seem to be appearing while trying to connect. Is the wifi down? Please fix it as soon as possible. negative. 
+L878 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We are working on the maintaince of the system to povide you with quality service. I appologise for any inconvience this may have caused you . We will fix the problem as soon as possible.Thank you IT team. positive. 
+L879 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My Internet is not connecting to the public servers, but is working on private servers, what to do ? negative. 
+L880 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The public servers might have been down for maintaince if you have checked them under maintaince period which was announced.You can try again connecting to the internet and if the problem still persist contact the nearest IT help desk. Best Regards, IT department negative. 
+L881 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am near the Academic block and the wifi is really slow on downlading exe files, Please help. positive. 
+L882 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Academic block wifi is used by all the office employees and students too so you can expect load on that device. If you are download files you can try downloading them on Library wifi or internet lab where the speed will be relatively better. Thankyou and sorry for any inconvience. negative. 
+L883 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Wifi is not working here, I think the lights in the Adapter are not working, I am near the Mess. positive. 
+L884 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ First of all thankyou for indicating the problem. I will check it from the server room and try to fix the problem otherwise I will send down a man from IT to have a look at the issue. Thankyou once again. . negative. 
+L885 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Ruckus adapter has fallen down near the meeting room in 6th floor, Main Admin Building. negative. 
+L886 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ First of all thankyou for indicating the problem. I will send down a man from IT to have a look at the issue. Thankyou once again. . negative. 
+L887 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Wifi is not connecting here in Library using Ubuntu, Help. negative. 
+L888 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have Recieved your query I will guide you through the steps and if your problem still persist you can contact the IT helpdesk near your hostel.You can try resetting your wireless device if you are using a laptop.if it didnt solve the problem you can try right click on the wifi icon on the right bottom corner it will pop up option of troubleshooting and let the windows handle it and then try resetting your wifi.After trying the above methods if your problem is still with you try contacting the Library Help desk. negative. 
+L889 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Can you please specify till when will the wifi be disfunctional. negative. 
+L890 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi outages are scheduled and are posted on notice boards and official Website. We are working on the systems to provide you better services. Thankyou for your patience. positive. 
+L891 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi has not been working on the 4th floor of SH2 since morning. It is my sincere request if you could fix the issue. negative. 
+L892 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I will check your issue from the server room try conecting to device by getting near to the wifi device. If the device is still not connecting ask 3 other members from your floor to write an email to us so we can reset the Card in the server room as per the policy we cannot reset the device on a request of single student,Also if you are only facing the issue on your floor contact nearest help desk. team negative. 
+L893 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi is not connecting to my phone. I have a Moto G3. Kindly let me know how can I connet my phone to WiFi. positive. 
+L894 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The issues is particularly with your phone try restarting your device or switch on airplane mode for 15 sec. Try reconnecting your device with the wifi and if the problem stays please come to the IT department in office timings we will try to solve the issue team negative. 
+L895 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The wifi has not been working on my motorola G4 phone. Other students who have motorola phones also are facing a similar problem. It is my sincere request if you could resolve the issue at the earliest. negative. 
+L896 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to bring into your knowledge against your query that we have not configured the wifi for any specific handsets. The wifi is open to all the handsets of all the companies. Anyhow based on your request I will ask one of the IT guy to look into this matter and see what can be done to fascilitate you. negative. 
+L897 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I haven't received my WiFi login details. Please provide me with the details at the earliest. positive. 
+L898 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to inform you that you have to apply for the login details and when you fill the form over your portal and it is checked against your accounts you will be able to see your username and password on your portal.The process takes a day or two. Thank you Best Regards, IT negative. 
+L899 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I seem to have forgotten the password to my internet access account. Please help me reset my password for the same. negative. 
+L900 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You can always reset your wifi password using your portal under settings tab. If you are unaware of the procedure you can email me your username and we will be more than happy to reset it. positive. 
+L901 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The WiFi details given to me during the orientation week don't seem to work. Please provide me with new details so that I can access my WiFi. positive. 
+L902 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You can always reset your wifi password using your portal under settings tab. If you are unaware of the procedure you can email me your username and we will be more than happy to reset it. positive. 
+L903 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I do not remember the details to my WiFi account. Please provide me with new login details. positive. 
+L904 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You can always reset your wifi password using your portal under settings tab. If you are unaware of the procedure you can email me your username and we will be more than happy to reset it. positive. 
+L905 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am not able to access the internet as I do not have my WiFi login details. Please provide me with the same. positive. 
+L906 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You can always reset your wifi password using your portal under settings tab. If you are unaware of the procedure you can email me your username and we will be more than happy to reset it. positive. 
+L907 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My login details are not working anymore. My old password gives the 'incorrect password' error. How can I get my old password changed? negative. 
+L908 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You can always reset your wifi password using your portal under settings tab. If you are unaware of the procedure you can email me your username and we will be more than happy to reset it. positive. 
+L909 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My password keeps on getting changed everytime I change it. I think another person in my batch is using the same user ID. Is there a way I can get my login details changed? positive. 
+L910 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The issue you are pointing out is not possible as the student id is unique and is the username for wifi. Make sure all your devices are logged off when you are not using it as someone might have been pranking with you. team negative. 
+L911 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am yet to recieve my login details to connect to the wifi. By when can I recieve it? Let me know as soon as possible. positive. 
+L912 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to inform you that you have to apply for the login details and when you fill the form over your portal and it is checked against your accounts you will be able to see your username and password on your portal.The process takes a day or two. Thank you Best Regards, IT negative. 
+L913 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ when I put in my login details, it gives me maximum login limit reached. I have a feeling someone else is also using my account. How can I change the password? negative. 
+L914 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is always adviceable to not share you account credentials with anyone. Secondly try reseeting your password through your portal or submit an application on IT help desk in office timings to do it for you. If your problem still persist you can contact us anytime, IT team negative. 
+L915 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I tried logging in and it is not opening the portal, running linux on i5 processor. negative. 
+L916 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The portal must have been down for maintaince or you should check your internet connection and try again. Portal is not configured for specific windows it is cross platform and runs on all windows. Best Regards, IT team negative. 
+L917 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The portal does not load on the url provided, please help. negative. 
+L918 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The portal has a single url provided to everyone. If you still think you have the wrong url you can reach it by opening the university website and can see a link to portal on bottom left corner. team. negative. 
+L919 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I forgot my login details, Please help me, I have a exam tomorrow. positive. 
+L920 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is a request to kindly mention which login details you have forgot so it wil be fairly easy for me to reset them for you. Best Regards, IT team negative. 
+L921 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ please send me a link to reset my password. negative. 
+L922 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You can always reset your wifi password using your portal under settings tab. If you are unaware of the procedure you can email me your username and we will be more than happy to reset it. If you want to reset your portal password under sign in page you can see a forgot password link. negative. 
+L923 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We need to reset the login details of our club. negative. 
+L924 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The login details of club can only be changed if it is requested by the IT coordinator of the club. You can request them to submit application or they have access to do it through their portal.Thanks IT team positive. 
+L925 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am unable to login to Wifi due to password error. However, I have not changed my password. Kindly look into the problem. negative. 
+L926 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You can always reset your wifi password using your portal under settings tab. If you are unaware of the procedure you can email me your username and we will be more than happy to reset it. If you want to reset your portal password under sign in page you can see a forgot password link. negative. 
+L927 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My wifi login limit has reached due to which I am not able to login on my laptop. Can you please reset the devices I have logged into from my id? negative. 
+L928 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Firstly it is under your control as we have provided you with a portal for that. Secondly only 2 devices can be connected through a single login access. If you are trying to connect more you need to buy the premium package by requesting it from IT department. If your requests get approved you will get it. For your current problem send me your login ID and I will reset all the devices connected through that. Best Regards, IT negative. 
+L929 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I wanted to change the password for my wifi login. Kindly let me know how to go about it. positive. 
+L930 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You can always reset your wifi password using your portal under settings tab. If you are unaware of the procedure you can email me your username and we will be more than happy to reset it. positive. 
+L931 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I am unable access the wifi due to some password change. However, I have not made this change. Please help me out. positive. 
+L932 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You can always reset your wifi password using your portal under settings tab. If you are unaware of the procedure you can email me your username and we will be more than happy to reset it.Once Reset do not share your password with anyone. negative. 
+L933 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have reached the maximum login limit on my wifi id. Kindly help me regain access. positive. 
+L934 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Firstly it is under your control as we have provided you with a portal for that. Secondly only 2 devices can be connected through a single login access. If you are trying to connect more you need to buy the premium package by requesting it from IT department. If your requests get approved you will get it. For your current problem send me your login ID and I will reset all the devices connected through that. Best Regards, IT negative. 
+L935 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please provide a clicker from room no. 2 in the new academic block for Prof. Kothari's lecture starting at 5 PM. negative. 
+L936 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to inform you that the right way to access clickers are to fill up a form and submit it on help desk. We will send the teacher approval and will be sent to the classroom on time. negative. 
+L937 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have a talk scheduled for 2 PM in AC-100. Please provide the projector remote for the same. negative. 
+L938 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that you can always request the Help desk of the block to help you get the remote.Every Room is fitted with the a seperate projector and you can get the remote as there are no availability issues. positive. 
+L939 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We require a projector remote for a lecture at LR-106 starting at 10 PM. Please do the necessary. negative. 
+L940 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that you can always request the Help desk of the block to help you get the remote.Every Room is fitted with the a seperate projector and you can get the remote as there are no availability issues. positive. 
+L941 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We require a clicker for TR-106 from 7 PM. Please help us with this. positive. 
+L942 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to inform you that the right way to access clickers are to fill up a form and submit it on help desk. We will send the teacher approval and will be sent to the classroom on time. negative. 
+L943 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ A talk will be held in AC-109 today, starting at 11 AM. Please provide a remote controller for the projector for the same. negative. 
+L944 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that you can always request the Help desk of the block to help you get the remote.Every Room is fitted with the a seperate projector and you can get the remote as there are no availability issues. positive. 
+L945 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I need a clicker for the projector. My class begins at 4:30 pm today. When and where can I collect it? negative. 
+L946 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to inform you that the right way to access clickers are to fill up a form and submit it on help desk. We will send the teacher approval and will be sent to the classroom on time. negative. 
+L947 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker provided in classroom AC-006 is not functioning. Please provide me another one. negative. 
+L948 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that you can submit the clicker to the nearest helpdesk and submit details they want. The will provide you with a spare clicker negative. 
+L949 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector remote is not working. I suspect it is low on battery, where can I collect another one? negative. 
+L950 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that you can submit the batteries to the nearest helpdesk and submit details they want. The will provide you with a spare batteries negative. 
+L951 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I had requested for a projector clicker. The one provided has unfortunately gone missing. Where can I get another one? Let me know as soon as possible. negative. 
+L952 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that you can submit details to nearest helpdesk. The will provide you with a spare clicker, positive. 
+L953 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I need another clicker in LR 010 in the new acedmic block, there are two speakers. positive. 
+L954 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that you can submit details to nearest helpdesk. The will provide you with a spare clicker, positive. 
+L955 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker provided in media room is out of battery. Please change. negative. 
+L956 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that you can submit the batteries to the nearest helpdesk and submit details they want. The will provide you with a spare batteries negative. 
+L957 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker in LR 011 is not responding to back function. Please provide another asap. negative. 
+L958 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that you can submit details to nearest helpdesk. The will provide you with a spare clicker, positive. 
+L959 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ This is the Media departement and we need 5 new clickers in our media room. Please provide, we have cc'ed OSL for the approval. negative. 
+L960 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have recieved your query as soon as I get the approval I will send it down for you. negative. 
+L961 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ the batteries in the clicker in LR 003 are dead and please fix them, get a new clicker also, I think the one here doesn't conect for a long time. positive. 
+L962 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that you can submit the batteries to the nearest helpdesk and submit details they want. The will provide you with a spare batteries negative. 
+L963 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Professor Anwar requires a clicker in class LR010 at 4:30pm today. negative. 
+L964 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to inform you that the right way to access clickers are to fill up a form and submit it on help desk. We will send the teacher approval and will be sent to the classroom on time. negative. 
+L965 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The clicker we have in class (LR 201) is not syncing with the laptop. The professor has a Macbook Air. Kindly check if we need a different clicker model. negative. 
+L966 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to inform you that university has same clickers all over the university and there are no other clickers available. Kindly ask the nearest help desk to resolve the issue. negative. 
+L967 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It appears that the clicker we are using is out of batteries. There is no signal response to any button we press. Kindly send someone to LR 002 to replace the batteries. negative. 
+L968 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that you can submit the batteries to the nearest helpdesk and submit details they want. The will provide you with a spare batteries negative. 
+L969 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The history society is conducting a seminar in the auditorium today. We shall be needing two clickers for the same. Please arrange for two clickers in the Auditorium by tomorrow. negative. 
+L970 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to inform you that the right way to access clickers are to fill up a form and submit it on help desk. We will send the notification on approval and will be sent to the auditorium on time. negative. 
+L971 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector in room no. 25 is not working. Please help us fix this at the earliest. positive. 
+L972 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that your issue has been reported to the nearest help desk. Help is on your way . negative. 
+L973 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The speakers in TR-106 are not working. We will be having a lecture in this room in a few minutes. Please fix this issue asap. positive. 
+L974 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that your issue has been reported to the nearest help desk. Help is on your way . negative. 
+L975 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We will be hosting a quiz competition in LR-205 from 10 PM for which we require a mic. Please do the necessary. positive. 
+L976 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Your request has been noted down and is further sent to the concerned person. You will be entertained soon. negative. 
+L977 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The mic in room no. 230 is missing. Please provide us with a mic in this room as we have an event starting in the next hour. positive. 
+L978 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that your issue has been reported to the nearest help desk. Help is on your way . negative. 
+L979 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The speakers seem to be broken in LT-106. Please solve this issue as soon as possible. positive. 
+L980 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that your issue has been reported to the nearest help desk. Help is on your way . negative. 
+L981 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We have an event scheduled for 6 PM in MR-101. We have been trying to connect the projector to our laptop for some time but have been failing. Please help us with this. negative. 
+L982 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is requested that your issue has been reported to the nearest help desk. Help is on your way . negative. 
+L983 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The Rack PC is not switching on in LR-105. Please fix this system at the earliest. negative. 
+L984 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Thankyou for informing us with the issue. We will send down the technical assistant to fix the issues ASAP. negative. 
+L985 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ We had a movie screening as a part of course work, but the speakers in class don't seem to be working. Can you send someone over to check it out? negative. 
+L986 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Thankyou for informing us with the issue. We will send down the technical assistant to fix the issues ASAP. negative. 
+L987 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector at classroom TR-104 is not connecting to the laptop. Can you please send someone over immediately. negative. 
+L988 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Thankyou for informing us with the issue. We will send down the technical assistant to fix the issues ASAP. negative. 
+L989 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I was using the projector for my lecture. It was working just fine, but suddenly switched off. It is not turning back on. Can you send someone to look into it. negative. 
+L990 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ IT is to bring into your knowledge that projectors often get heated and automatically get switched off.It is requested to wait for 5 mins before trying again.If the problem persist resend me an email and I will send down a technical assistant. negative. 
+L991 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The smart board in TR-203 is malfunctioning. Half the screen appears black. Hope to see someone fix this soon. negative. 
+L992 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Thankyou for informing us with the issue. We will send down the technical assistant to fix the issues ASAP. negative. 
+L993 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The crestron Wifi Mode is not working, Please fix. positive. 
+L994 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Thankyou for informing us with the issue. We will send down the technical assistant to fix the issues ASAP. negative. 
+L995 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The equipment to connect projector to the laptop is not working properly, please help. positive. 
+L996 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ IT is requested that you can get a spare HDMI cable from the nearest helpdesk by submitting an application and dropping off the old Cable. negative. 
+L997 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The admin is conducting a workshop and they need a new HDMI cable in LR 006. positive. 
+L998 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ IT is requested that you can get a spare HDMI cable from the nearest helpdesk by submitting an application and dropping off the old Cable. negative. 
+L999 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector which is connected in LR 001 is overheating when working on it for a short while also, Please check. negative. 
+L1000 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ IT is to bring into your knowledge that projectors often get heated and automatically get switched off.It is requested to wait for 5 mins before trying again.If the problem persist resend me an email and I will send down a technical assistant. negative. 
+L1001 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I was told that there is a new sound system in the Auditorium, it is not able to echo sounds of the mic, Please check. positive. 
+L1002 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Thankyou for informing us with the issue. We will send down the technical assistant to fix the issues ASAP. negative. 
+L1003 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The speakers in LR110 are malfunctioning. The professor is facing difficulty in speaking without the mic. Can you please send someone urgently to solve the issue? negative. 
+L1004 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Thankyou for informing us with the issue. We will send down the technical assistant to fix the issues ASAP. negative. 
+L1005 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The projector is not displaying the ppt in the classroom. Please send someone to Tr006 to resolve the problem. negative. 
+L1006 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Thankyou for informing us with the issue. We will send down the technical assistant to fix the issues ASAP. negative. 
+L1007 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Proffesor Kelly wants a collar micrphone for class. Please provide the needful. negative. 
+L1008 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ IT is to inform you that you need to requset for collar mic before the start of the class.Ask your teacher to send an email to the IT and I will send it down for her/him.We cannot dispatch on student request. Best Regards, IT negative. 
+L1009 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I lost my ID card the last Wednesday and have been unable to find it since. Please block my ID card till I find it or buy a new one. Thanking you, Sam positive. 
+L1010 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to bring it to your knowledge that according to the policy you have to immediately report the lost card. If in between any transaction have been processed the university will not be responsible in that case. I will block it anyhow from now on. Best Regards, Student Affairs. negative. 
+L1011 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I seem to have lost my ID card and can't find it. Could you please check the transactions made from my ID card and block it if there have been any. negative. 
+L1012 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to bring it to your knowledge that according to the policy you have to immediately report the lost card. If in between any transaction have been processed the university will not be responsible in that case. I will block it anyhow from now on. Best Regards, Student Affairs. negative. 
+L1013 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have misplaced my ID card and want to buy a new one. Where and when can I buy a new one? negative. 
+L1014 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to bring into your knowledge that you have to report it officially and can get a form from the student affairs to apply for a new one,Best Reagards, Student Affairs. positive. 
+L1015 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have lost my ID card and would like to issue a new one for myself. What procedure do I need to follow for the same? negative. 
+L1016 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to bring into your knowledge that you have to report it officially and can get a form from the student affairs to apply for a new one,Best Reagards, Student Affairs. positive. 
+L1017 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I lost my ID card 2 days ago. I am requesting you to block it for now until I get my new card issued. negative. 
+L1018 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to bring it to your knowledge that according to the policy you have to immediately report the lost card. If in between any transaction have been processed the university will not be responsible in that case. I will block it anyhow from now on. Best Regards, Student Affairs. negative. 
+L1019 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ My ID card stopped working a week back. It no longer gets scanned, I think the chip has worn off. Where can I get it replaced. positive. 
+L1020 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You have to fill out a form in student Affairs to request a new one. negative. 
+L1021 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I have misplaced my ID card. Where can I procure a new ID card. I hope this is possible. negative. 
+L1022 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ You have to fill out a form in student Affairs to request a new one. negative. 
+L1023 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ I lost my ID card and got a new one, but it is not activated yet, what should I d? negative. 
+L1024 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to inform you that it will take around 24-hour before it gets activated.Incase you have problems after that you can contact the Student Affairs and they will redirect you to the concerned person. positive. 
+L1025 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Not able find my ID card in the Vending list, can you please refresh the system ? negative. 
+L1026 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ The list gets refresh everyday at the start of office hours. If you can not see your name make sure it is activated. negative. 
+L1027 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ Please send me my card transaction list for the week. I need to confirm the transactions.negative.
+L1028 +++$+++ u2 +++$+++ m0 +++$+++ CAMERON +++$+++ It is to inform you that you need to fill out the form and sign the form to be able to get the transaction history. It cannot be done over an email.negative.

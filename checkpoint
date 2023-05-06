@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\MS SE\\Final Thesis\\Work\\Examples\\sentiment-analysis-tensorflow-master\\model.ckpt"
+all_model_checkpoint_paths: "D:\\MS SE\\Final Thesis\\Work\\Examples\\sentiment-analysis-tensorflow-master\\model.ckpt"

@@ -1,0 +1,88 @@
+import imaplib
+import email
+from bs4 import BeautifulSoup
+
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+ 
+import tensorflow as tf
+import execute
+
+tf.reset_default_graph()
+sess = tf.Session() 
+sess, model, enc_vocab, rev_dec_vocab = execute.init_session(sess, conf='seq2seq_serve.ini')
+
+def extract_body(payload):
+    if isinstance(payload,str):
+        return payload
+    else:
+        return '\n'.join([extract_body(part.get_payload()) for part in payload])
+
+def StripTags(text):
+     finished = 0
+     while not finished:
+         finished = 1
+         start = text.find("<")
+         if start >= 0:
+             stop = text[start:].find(">")
+             if stop >= 0:
+                 text = text[:start] + text[start+stop+1:]
+                 finished = 0
+     return text
+
+conn = imaplib.IMAP4_SSL("imap.gmail.com", 993)
+#conn.login("autoreply.mcs@gmail.com", "Mscs23.mcs@786#")
+conn.login("stratfordmcsproject@gmail.com", "McS@786#")
+conn.select()
+typ, data = conn.search(None, 'UNSEEN')
+fromaddr = "stratfordmcsproject@gmail.com"
+server = smtplib.SMTP('smtp.gmail.com', 587)
+server.starttls()
+server.login(fromaddr, "McS@786#")
+try:
+    for num in data[0].split():
+        typ, msg_data = conn.fetch(num, '(RFC822)')
+        for response_part in msg_data:
+            if isinstance(response_part, tuple):
+                raw_email_string = response_part[1].decode('utf-8')
+                msg = email.message_from_string(raw_email_string)                
+                subject=msg['Subject']                
+                sender=msg['from']                
+                toaddr = sender                        
+                payload=msg.get_payload()
+                body=extract_body(payload)
+                body = BeautifulSoup(body, "lxml")
+                for p in body.find_all('p'):
+                    if p.string is not None and '==' not in p.string:
+                        emailText = p.string.strip();
+                        if emailText:
+                            emailResponse =  execute.decode_line(sess, model, enc_vocab, rev_dec_vocab, emailText)
+                            
+                            replymsg = MIMEMultipart()
+                            replymsg['From'] = fromaddr
+                            
+                            toaddr = email.utils.parseaddr(toaddr)
+                            
+                            replymsg['To'] = toaddr[1]
+                            replymsg['Subject'] = "Re: " + subject
+                            
+                            replymsgbody = "Thanks " + toaddr[0] + ",\r\n\r\n"
+                            replymsgbody = replymsgbody + "This is an automatically generated response.\r\n"
+                            replymsgbody = replymsgbody + "Your query was:\r\n" + emailText + "\r\n\r\n"
+                            replymsgbody = replymsgbody + "Response:\r\n" +emailResponse + "\r\n\r\n"
+                            replymsgbody = replymsgbody + "Thanks & Regards, \r\nStratford MCS Team.\r\n"
+                            
+                            replymsg.attach(MIMEText(replymsgbody, 'plain'))
+                            text = replymsg.as_string()
+                            
+                            server.sendmail(fromaddr, toaddr[1], text)
+                
+        typ, response = conn.store(num, '+FLAGS', r'(\Seen)')
+finally:
+    try:
+        conn.close()        
+        server.quit()
+    except:
+        pass
+    conn.logout()
